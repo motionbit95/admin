@@ -2,7 +2,7 @@
   /* 양 옆 패딩 제거 */
   padding-left: 0 !important;
   padding-right: 0 !important;
-  height: 30px; /* 셀의 높이를 조정하여 채워진 듯한 효과 부여 */
+  height: 64px; /* 셀의 높이를 조정하여 채워진 듯한 효과 부여 */
 }
 
 .gantt-table .ant-table-thead > tr > th {

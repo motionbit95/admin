@@ -32,7 +32,7 @@ const App = () => {
     token: { colorBgContainer, borderRadiusLG },
   } = theme.useToken();
   return (
-    <Layout hasSider>
+    <Layout hasSider style={{ minHeight: "100vh" }}>
       <Sider
         trigger={null}
         collapsible

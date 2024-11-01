@@ -4,7 +4,7 @@ export const projects = [
     project_id: 1,
     project_name: "Project A",
     start_date: "2024-11-01",
-    end_date: "2024-11-10",
+    end_date: "2024-12-10",
   },
   {
     project_id: 2,

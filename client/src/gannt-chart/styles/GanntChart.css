@@ -1,0 +1,14 @@
+.gantt-table .ant-table-cell {
+  /* 양 옆 패딩 제거 */
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  height: 30px; /* 셀의 높이를 조정하여 채워진 듯한 효과 부여 */
+}
+
+.gantt-table .ant-table-thead > tr > th {
+  padding: 4px !important; /* 헤더 셀의 패딩도 조정 */
+}
+
+.gantt-table .ant-table-cell div {
+  height: 100%; /* 내부 div가 셀에 꽉 차도록 높이 설정 */
+}
